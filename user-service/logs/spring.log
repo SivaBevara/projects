@@ -111,3 +111,4 @@ Caused by: java.net.UnknownHostException: ac-svd3c3e-shard-00-02.vlk2ru1.mongodb
 2023-01-05 10:28:40.375  INFO 6988 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2023-01-05 10:33:40.376  INFO 6988 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2023-01-05 10:38:40.374  INFO 6988 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-01-05 10:43:40.374  INFO 6988 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
